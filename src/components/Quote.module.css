@@ -1,0 +1,10 @@
+.Quote h1, h2, h3 {
+  color: #4a2396;
+  font-size: 20px;
+}
+
+.Quote {
+  background-color: #2cb98e;
+  padding: 12px;
+  margin: 0 auto;
+}
